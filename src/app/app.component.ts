@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Employee } from '../Interface/EmpInterface';
+ 
 
 @Component({
   selector: 'app-root',
